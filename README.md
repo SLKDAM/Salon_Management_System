@@ -3,6 +3,9 @@ Overview  The Salon  Management System is a web application designed to streamli
 Tech Stack
 
 Frontend: React.js
+
 Backend: Node.js with Express
+
 Database: MongoDB
+
 Authentication: JWT (JSON Web Token)
